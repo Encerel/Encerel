@@ -30,7 +30,7 @@ You can get to know me better by viewing my [CV](https://drive.google.com/file/d
 ##
 </div>
 
-<h3 align="center">🔧My Skill Set  🔧
+<h3 align="center">🔧My Skill Set🔧
 
 ###
 
