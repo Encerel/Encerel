@@ -10,7 +10,7 @@
 
 
 <div align="center">
-  <a href="andreyyankovez@gmail.com" target="_blank">
+  <a href="mailto:andreyyankovez@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=gmail&logo=gmail&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://t.me/Andruskalove" target="_blank">
