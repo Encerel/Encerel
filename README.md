@@ -25,7 +25,7 @@
 I'm **Andrei Yankavets**, Back-End developer from Belarus. I'm in search of practical
 experience and the opportunity to evaluate my current knowledge. 
 
-You can get to know me better by viewing my [CV](https://drive.google.com/file/d/1cDk_OsHiq_TBMtyy4GQ6iy8rLngOdXeX/view?usp=sharing).
+You can get to know me better by viewing my [CV](https://drive.google.com/file/d/1WwSU4Flp7_OPxBVllgJWMJkLmNqSLKn2/view?usp=sharing).
 
 ##
 </div>
